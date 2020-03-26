@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+.dotted-line {
+	border-right: 1px dashed #ccc;
+	
+}
+
+.pat-head {
+	width: 100%;
+  border-top: 1.5px dotted white;
+	margin-bottom: 0;
+	margin-top: 0.05rem;
+	
+}
+.dots{
+  width:1px;
+  height:1px;
+  background-color: white;
+  position: relative;
+}
+.head-let {
+ font-family: slab, roboto;
+	font-weight: 700;
+	color: white;
+	margin-top: 5px;
+}
+.aboutus-style {
+	
+	background-image: url("images/Abouts Background image.JPG");
+	position: relative;
+	overflow: auto;
+	
+}
+.aboutus-text{
+	text-align: justify;
+  text-justify: inter-word;
+	text-indent: 5em;
+}
